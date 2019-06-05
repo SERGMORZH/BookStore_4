@@ -43,3 +43,13 @@ c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Sys
 c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\obj\Debug\BookStore_4.csprojResolveAssemblyReference.cache
 c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\obj\Debug\BookStore_4.dll
 c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\obj\Debug\BookStore_4.pdb
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.dll
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.Web.Common.dll
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.Web.Mvc.dll
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\WebActivator.dll
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.pdb
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.xml
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.Web.Common.pdb
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.Web.Common.xml
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.Web.Mvc.pdb
+c:\users\1\documents\visual studio 2015\Projects\BookStore_4\BookStore_4\bin\Ninject.Web.Mvc.xml

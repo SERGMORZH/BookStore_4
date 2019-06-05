@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using BookStore_4.Models;
 
-namespace BookStore_4.Controllers
+namespace BookStore.Controllers
 {
     public class HomeController : Controller
     {
@@ -21,12 +21,12 @@ namespace BookStore_4.Controllers
             // возвращаем представление
             return View();
         }
+
+
         [HttpGet]
         public ActionResult Buy(int id)
         {
-            
-            ViewBag.BooksId =id;
-            // возвращаем представление
+            ViewBag.BookId = id;
             return View();
         }
         [HttpPost]
@@ -40,5 +40,4 @@ namespace BookStore_4.Controllers
             return "Спасибо," + purchase.Person + ", за покупку!";
         }
     }
-
 }
